@@ -1,17 +1,3 @@
-# Capstone 595 Group 5
-## Download Node.js
+# Capstone 595 Group 5 - Winning project of Fall 2022 Senior Design Projects at my university
 
-https://nodejs.org/en/download/
-
-## Clone the project
-1. Get the link
-![image](https://user-images.githubusercontent.com/69610185/205195147-1647b252-a310-411e-85e6-b14f5de80da8.png)
-2. Paste it into your preferred IDE through the VCS functionality
-3. Save to preferred folder
-
-## Running the app
-#### Navigate to the folder where the project was saved. Open command prompt from this folder.
----------
-1. npm update
----------
-2. npm start
+The goal of this project was to create a web application to help university students stay organized with course/personal projects and homework by using visual study data structures and algorithms. Throughout development it shifted from a study app to mostly visualizers. We did not have enough time to finish all that we wanted, so we prioritized what we thought was best. Many modules are incomplete or half done, but given the team size and time restraint, we delivered a product that the entire team was could be proud of.
